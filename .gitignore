@@ -1,2 +1,3 @@
 *.docx
 .Rhistory
+.ipynb_checkpoints
